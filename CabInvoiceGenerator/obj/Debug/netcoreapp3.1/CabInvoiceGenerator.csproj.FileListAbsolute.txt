@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.exe
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.deps.json
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+C:\Users\SANTANU\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.genruntimeconfig.cache
